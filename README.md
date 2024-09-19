@@ -1,4 +1,3 @@
-
 # Used Program List
 ## Linux
 - Kdenlive
@@ -26,7 +25,7 @@
 - Youtube Tabs - Subscription Organization Tool
 
 ### Firefox: 
-Spotify Launch
+- Spotify Launch
 - Youtube Video Skip Ad Trigger
 - YouTube Playback Speed Control
 - Watchtime Tracker
